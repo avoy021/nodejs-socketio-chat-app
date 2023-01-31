@@ -1,0 +1,26 @@
+.main{
+    max-width: 65%;
+    margin: auto;
+    height: 70vh !important;
+    /* overflow-y: auto; */
+}
+
+.submit-group{
+    width: 67%;
+}
+.left{
+    float: left;
+    clear: both;
+}
+.right{
+    float: right;
+    clear: both;
+}
+.message{
+    color: #363945;
+    background-color: #edf1ff;
+    width: 24%;
+    padding: 10px;
+    margin: 17px 12px;
+    border-radius: 10px;
+}
